@@ -11,6 +11,7 @@
   inputs.src-nimkerberos-master.ref   = "refs/heads/master";
   inputs.src-nimkerberos-master.owner = "genotrance";
   inputs.src-nimkerberos-master.repo  = "nimkerberos";
+  inputs.src-nimkerberos-master.dir   = "";
   inputs.src-nimkerberos-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
